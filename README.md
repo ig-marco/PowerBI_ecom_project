@@ -1,1 +1,4 @@
-# PowerBI_ecom_project
+- Created interactive dashboard to tarck and analyze online sales data
+- Used complex parameters to drill down in worksheet and customeiization using filters and slicers
+- Created connections, joined new tables, calculations to manipulate data and enable user driven parameters for visualizations
+- Used different types of custommized visualizations (bar chart, pie chart, donut chart, clustered chart, scattter chart, line chart, map, slicers, etc.)
